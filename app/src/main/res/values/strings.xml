@@ -2,4 +2,6 @@
     <string name="app_name">GoBang</string>
     <string name="play_game">Play Game</string>
     <string name="turn">White Turn</string>
+    <string name="winner_draw">Draw</string>
+    <string name="not_start_title">Play?</string>
 </resources>
